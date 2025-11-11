@@ -28,6 +28,3 @@ The unpredictable nature of seismic activity poses a significant risk to life an
 - Configured and tuned the ANN architecture (layer design, learning rate, epochs) to improve model accuracy and generalisation.  
 - Produced charts and visualizations that highlight predictive trends and model behavior.  
 - Documented the methodology and included commentary within the Jupyter Notebook to support reproducibility.
-
-### Author  
-Sagnik Ghosh
