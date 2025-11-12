@@ -8,7 +8,7 @@ The unpredictable nature of seismic activity poses a significant risk to life an
 
 ### Tools & Technologies
 - **Languages:** Python
-- **Libraries & Frameworks:** NumPy, Pandas, Scikit-Learn, Keras/TensorFlow (for ANN)
+- **Libraries & Frameworks:** NumPy, Pandas, Scikit-Learn, Keras (for ANN)
 - **Environment:** Jupyter Notebook
 - **Model Type:** Normalized ANN (feed-forward neural network)
 
